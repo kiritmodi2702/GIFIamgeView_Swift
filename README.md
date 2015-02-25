@@ -8,3 +8,6 @@ You can load GIF image in ImageView.This project added class of 'UIImage+animate
       var url: NSURL = NSURL(string: strImg)!
         
       ImageGIF.image = UIImage.animatedImageWithAnimatedGIFURL(url)
+
+![Swift GIF Image](http://i.stack.imgur.com/5S6VQ.gif)
+
