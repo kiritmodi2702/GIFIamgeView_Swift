@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         var strImg : String = "http://www.kyst.no/ep_bilder/164/16863-ceabe11810360ac49045863747d2ca85-67b5126fe38caa1839cb3b35b903ef53storvikbanner.gif"
         
         
-        var url: NSURL = NSURL(string: strImg)
+        var url: NSURL = NSURL(string: strImg)!
         
         ImageGIF.image = UIImage.animatedImageWithAnimatedGIFURL(url)
  

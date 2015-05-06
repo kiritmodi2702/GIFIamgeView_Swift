@@ -27,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		685A135B1AF9FBB5005A96C3 /* SwiftGIFImage-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwiftGIFImage-Bridging-Header.h"; sourceTree = "<group>"; };
 		AC6F2C5F1A65472400303F00 /* SwiftGIFImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftGIFImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC6F2C631A65472400303F00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AC6F2C641A65472400303F00 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -37,10 +38,8 @@
 		AC6F2C741A65472400303F00 /* SwiftGIFImageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftGIFImageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC6F2C791A65472400303F00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AC6F2C7A1A65472400303F00 /* SwiftGIFImageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftGIFImageTests.swift; sourceTree = "<group>"; };
-		AC6F2C841A65476900303F00 /* SwiftGIFImage-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwiftGIFImage-Bridging-Header.h"; sourceTree = "<group>"; };
 		AC6F2C851A65476900303F00 /* UIImage+animatedGIF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+animatedGIF.h"; sourceTree = "<group>"; };
 		AC6F2C861A65476900303F00 /* UIImage+animatedGIF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+animatedGIF.m"; sourceTree = "<group>"; };
-		AC6F2C881A6547E000303F00 /* SwiftGIFImage-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwiftGIFImage-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,7 +68,6 @@
 				AC6F2C611A65472400303F00 /* SwiftGIFImage */,
 				AC6F2C771A65472400303F00 /* SwiftGIFImageTests */,
 				AC6F2C601A65472400303F00 /* Products */,
-				AC6F2C841A65476900303F00 /* SwiftGIFImage-Bridging-Header.h */,
 			);
 			sourceTree = "<group>";
 		};
@@ -91,7 +89,7 @@
 				AC6F2C6B1A65472400303F00 /* Images.xcassets */,
 				AC6F2C6D1A65472400303F00 /* LaunchScreen.xib */,
 				AC6F2C621A65472400303F00 /* Supporting Files */,
-				AC6F2C881A6547E000303F00 /* SwiftGIFImage-Bridging-Header.h */,
+				685A135B1AF9FBB5005A96C3 /* SwiftGIFImage-Bridging-Header.h */,
 			);
 			path = SwiftGIFImage;
 			sourceTree = "<group>";
@@ -350,7 +348,7 @@
 				INFOPLIST_FILE = SwiftGIFImage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/mspsys087/Desktop/SwiftGIFImage/SwiftGIFImage/SwiftGIFImage-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/nimblechapps/Downloads/GIFIamgeView_Swift-master 2/SwiftGIFImage/SwiftGIFImage-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -363,7 +361,7 @@
 				INFOPLIST_FILE = SwiftGIFImage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/mspsys087/Desktop/SwiftGIFImage/SwiftGIFImage/SwiftGIFImage-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "/Users/nimblechapps/Downloads/GIFIamgeView_Swift-master 2/SwiftGIFImage/SwiftGIFImage-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -420,6 +418,7 @@
 				AC6F2C801A65472400303F00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AC6F2C811A65472400303F00 /* Build configuration list for PBXNativeTarget "SwiftGIFImageTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +427,7 @@
 				AC6F2C831A65472400303F00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
