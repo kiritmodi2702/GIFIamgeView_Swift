@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87EE839C-722D-41A6-99E8-0F776D6FC153</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftGIFImage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F29108BEC5639DD4A053518CC7127E69F2B6BF26</key>
+		<string>https://github.com/kiritmodi2702/GIFIamgeView_Swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftGIFImage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F29108BEC5639DD4A053518CC7127E69F2B6BF26</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kiritmodi2702/GIFIamgeView_Swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F29108BEC5639DD4A053518CC7127E69F2B6BF26</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F29108BEC5639DD4A053518CC7127E69F2B6BF26</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GIFIamgeView_Swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
