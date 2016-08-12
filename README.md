@@ -1,4 +1,4 @@
-#for more swift referance blog : http://iosdevcenters.blogspot.com/
+#swift referance blog : http://iosdevcenters.blogspot.com/
 
 # GIFIamgeView_Swift
 
